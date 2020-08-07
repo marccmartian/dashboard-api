@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  release_date: 2020-08-04 23:57:17
+  title: MyString
+  subscription_cost: 1.5
+  status: 1
+  total_earned: 1.5
+  total_subscriptions: 1
+  total_views: 1
+  total_vacancies: 1
+  campaign: one
+
+two:
+  release_date: 2020-08-04 23:57:17
+  title: MyString
+  subscription_cost: 1.5
+  status: 1
+  total_earned: 1.5
+  total_subscriptions: 1
+  total_views: 1
+  total_vacancies: 1
+  campaign: two
